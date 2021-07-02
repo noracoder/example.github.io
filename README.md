@@ -1,4 +1,4 @@
-# Cause I'm not a BAD coder.....!
+# Permission to dance!
 
 # example
 Trying it out &lt;3
