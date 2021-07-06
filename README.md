@@ -13,3 +13,6 @@ direction
 
 # go away
 :(( 
+
+# Emma Z Coder
+I'm here and i figured it out all on my own!
